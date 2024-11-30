@@ -1,6 +1,17 @@
 ## Hi there 👋
 ## i'm Amirreza Mehrani
-## Skills
+
+## 🚀 About Me
+
+I'm learning Js
+
+
+
+
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,scss)](https://skillicons.dev)
+
+
 <!--
 **amirreza2006133/amirreza2006133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
