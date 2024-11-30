@@ -1,5 +1,6 @@
 ## Hi there 👋
-### i'm Amirreza Mehrani
+## i'm Amirreza Mehrani
+## Skills
 <!--
 **amirreza2006133/amirreza2006133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
