@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm learning Js
+
 
 
 
